@@ -1,0 +1,14 @@
+.pagetwo__title {
+    font-family: "IBM Plex Sans Thai";
+    text-align: center;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.pagetwo__subtitle {
+    font-family: "IBM Plex Sans Thai";
+    font-size: 20px;
+    margin-bottom: 1.5rem;
+    justify-content: center;
+    display: flex;
+}
